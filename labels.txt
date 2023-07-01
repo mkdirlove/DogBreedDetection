@@ -1,0 +1,8 @@
+0 beegle
+1 bulldog
+2 dalmatian
+3 german_shepherd
+4 husky
+5 labrador_retriever
+6 poodle
+7 rottweiler
